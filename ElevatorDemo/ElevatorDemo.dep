@@ -1,0 +1,110 @@
+# Microsoft Developer Studio Generated Dependency File, included by ElevatorDemo.mak
+
+.\DrawPaneDlg.cpp : \
+	".\DrawPaneDlg.h"\
+	".\Elevator.h"\
+	".\ElevatorDemo.h"\
+	".\ElevatorDemoDlg.h"\
+	".\ElevatorUI.h"\
+	".\Floor.h"\
+	".\FloorUI.h"\
+	".\Person.h"\
+	".\PersonUI.h"\
+	".\Reporter.h"\
+	
+
+.\Elevator.cpp : \
+	".\Elevator.h"\
+	".\ElevatorDemo.h"\
+	".\ElevatorDemoDlg.h"\
+	".\Floor.h"\
+	".\Person.h"\
+	".\Reporter.h"\
+	
+
+.\ElevatorDemo.cpp : \
+	".\ElevatorDemo.h"\
+	".\ElevatorDemoDlg.h"\
+	
+
+.\ElevatorDemo.rc : \
+	".\res\ElevatorDemo.ico"\
+	".\res\ElevatorDemo.rc2"\
+	
+
+.\ElevatorDemoDlg.cpp : \
+	".\DrawPaneDlg.h"\
+	".\Elevator.h"\
+	".\ElevatorDemo.h"\
+	".\ElevatorDemoDlg.h"\
+	".\ElevatorUI.h"\
+	".\Floor.h"\
+	".\FloorUI.h"\
+	".\Person.h"\
+	".\PersonUI.h"\
+	".\Reporter.h"\
+	".\Schedule.h"\
+	
+
+.\ElevatorUI.cpp : \
+	".\Elevator.h"\
+	".\ElevatorDemo.h"\
+	".\ElevatorDemoDlg.h"\
+	".\ElevatorUI.h"\
+	".\Floor.h"\
+	".\Person.h"\
+	".\PersonUI.h"\
+	".\Reporter.h"\
+	
+
+.\Floor.cpp : \
+	".\ElevatorDemo.h"\
+	".\ElevatorDemoDlg.h"\
+	".\Floor.h"\
+	".\Person.h"\
+	".\Reporter.h"\
+	
+
+.\FloorUI.cpp : \
+	".\Elevator.h"\
+	".\ElevatorDemo.h"\
+	".\ElevatorDemoDlg.h"\
+	".\ElevatorUI.h"\
+	".\Floor.h"\
+	".\FloorUI.h"\
+	".\Person.h"\
+	".\PersonUI.h"\
+	".\Reporter.h"\
+	
+
+.\Person.cpp : \
+	".\ElevatorDemo.h"\
+	".\Person.h"\
+	
+
+.\PersonUI.cpp : \
+	".\ElevatorDemo.h"\
+	".\Person.h"\
+	".\PersonUI.h"\
+	
+
+.\Reporter.cpp : \
+	".\ElevatorDemo.h"\
+	".\ElevatorDemoDlg.h"\
+	".\Reporter.h"\
+	
+
+.\Schedule.cpp : \
+	".\Elevator.h"\
+	".\ElevatorDemo.h"\
+	".\ElevatorDemoDlg.h"\
+	".\Floor.h"\
+	".\Person.h"\
+	".\Reporter.h"\
+	".\Schedule.h"\
+	
+
+.\StdAfx.cpp : \
+	".\StdAfx.h"\
+	"f:\msvc++\vc98\include\basetsd.h"\
+	
